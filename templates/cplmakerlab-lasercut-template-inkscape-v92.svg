@@ -97,7 +97,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="2264.6419"
+     inkscape:cx="3407.499"
      inkscape:cy="738.49985"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -360,48 +360,53 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.4994278px;line-height:125%;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.05075876;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="529.4386"
-       y="49.003094"
+       x="521.87909"
+       y="29.348331"
        id="text879"><tspan
          sodipodi:role="line"
-         x="529.4386"
-         y="49.003094"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.05075876"
+         x="521.87909"
+         y="29.348331"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
          id="tspan889">DESIGN TIPS:</tspan><tspan
          sodipodi:role="line"
-         x="529.4386"
-         y="80.161827"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.05075876"
+         x="521.87909"
+         y="61.549698"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
          id="tspan903">Bedsize is 20&quot;x12&quot;, but usable area closer to 19.5&quot;x11.5&quot;</tspan><tspan
          sodipodi:role="line"
-         x="529.4386"
-         y="111.32056"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.05075876"
-         id="tspan891">Cut lines     = 100% RED, stroke width .003 inches</tspan><tspan
+         x="521.87909"
+         y="93.75106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
+         id="tspan891">Cut lines     = 100% RED [RGBA(255,0,0,255) or ff0000ff], stroke width .003 inches</tspan><tspan
          sodipodi:role="line"
-         x="529.4386"
-         y="142.47931"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.05075876"
-         id="tspan893">Engrave lines = 100% BLACK, stroke width .003 inches</tspan><tspan
+         x="521.87909"
+         y="125.95242"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
+         id="tspan893">Engrave lines = 100% BLACK [RGBA(0,0,0,255) or 000000ff], stroke width .003 inches</tspan><tspan
          sodipodi:role="line"
-         x="529.4386"
-         y="173.63805"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.05075876"
-         id="tspan895">Raster fill   = 100% BLACK, no stroke</tspan><tspan
+         x="521.87909"
+         y="158.15379"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
+         id="tspan895">Raster fill   = 100% BLACK [RGBA(0,0,0,255) or 000000ff], no stroke</tspan><tspan
          sodipodi:role="line"
-         x="529.4386"
-         y="204.79678"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.05075876"
+         x="521.87909"
+         y="190.35515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
          id="tspan897">Finalizing your document:</tspan><tspan
          sodipodi:role="line"
-         x="529.4386"
-         y="235.95552"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.05075876"
-         id="tspan1029">Convert shapes and texts to paths (Path -&gt; Object to  Path)</tspan><tspan
+         x="521.87909"
+         y="222.55652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
+         id="tspan1029">For fills and strokes, check that alpha transparency = 100%, opacity = 100%</tspan><tspan
          sodipodi:role="line"
-         x="529.4386"
-         y="267.11426"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;stroke-width:0.05075876"
+         x="521.87909"
+         y="254.75787"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
+         id="tspan900">Convert shapes and texts to paths (Path -&gt; Object to  Path)</tspan><tspan
+         sodipodi:role="line"
+         x="521.87909"
+         y="286.95923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888931px;font-family:monospace;-inkscape-font-specification:monospace;stroke-width:0.05075876"
          id="tspan1033">Ungroup all objects (CTRL+A, CTRL+SHIFT+G)</tspan></text>
     <g
        id="g3691">
@@ -469,5 +474,16 @@
        id="path3466"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:Inconsolata;-inkscape-font-specification:Inconsolata;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.61999989;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M -76.280986,140.26607 Q -76.280986,141.74773 -76.333903,142.45329 -76.369181,143.1412 -76.457375,143.97023 L -76.563208,144.8169 H -77.409875 L -77.515708,143.97023 Q -77.603903,143.17648 -77.65682,142.47093 -77.692097,141.76537 -77.692097,140.26607 Z M -73.635153,140.26607 Q -73.635153,141.74773 -73.68807,142.45329 -73.723348,143.1412 -73.811542,143.97023 L -73.917375,144.8169 H -74.764042 L -74.869875,143.97023 Q -74.95807,143.17648 -75.010986,142.47093 -75.046264,141.76537 -75.046264,140.26607 Z" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.63888741px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.61999989;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="1093.1072"
+       y="109.76428"
+       id="text898"><tspan
+         sodipodi:role="line"
+         id="tspan896"
+         x="1093.1072"
+         y="125.37056"
+         style="stroke-width:7.61999989" /></text>
   </g>
 </svg>
