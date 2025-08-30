@@ -1,2 +1,2 @@
 # general
-General repository for Makerlab workshops, classes, wiki
+General repository for Makerlab templates, workshops, classes, wiki
